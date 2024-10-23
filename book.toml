@@ -1,0 +1,6 @@
+[book]
+authors = ["POND Leadership", "ZoopGoop"]
+language = "en"
+multilingual = false
+src = "src"
+title = "POND Policies and Documentation"

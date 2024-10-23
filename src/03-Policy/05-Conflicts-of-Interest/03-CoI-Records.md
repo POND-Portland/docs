@@ -1,0 +1,13 @@
+# Record of Potential CoIs
+
+After "Phase 2" of restructuring, Mediators are excepted to compile an internal, private Document of all significant Conflicts of Interest for the whole leadership team. This document should be internal to the Mediators alone (which is to say - hosted outside the server entirely) to prevent leaders from being able to pry into intimate details about everyone's personal relationships or trauma. [TODO - Update this after it's done]
+
+Mediators who mention (privately or publicly) CoI information that's not very, very obviously open knowledge to the involved parties will immediately have their role temporarily removed and put under an [Accountability Process](#accountability-and-mediation), which will *at minimum* result in mandatory leadership retraining. More severe situations may result in more severe penalties - starting at being prevented from holding a Mediator position for a minimum of 6 months. The leader is still bound by these rules if they resign from leadership, though different consequences may need to be enacted.
+
+This data is collected via interview - that is Mediators should not become private detectives to compile this list, simply asking all leaders is sufficient. Mediators are not to document CoIs discovered by intuition, they may only log CoIs they are directly told about. These CoIs will be rated by [Severity](#coi-severity-levels), and checked and enforced as necessary.
+
+Newly appointed leaders after the initial compilation of this list will be interviewed during onboarding. 
+
+Leaders are encouraged to proactively declare new CoIs to the Mediators (e.g. they started dating a server member, or moved in with another leader). Leaders are not required to disclose a CoI to a Mediator under *any* circumstances, but a failure to do so will increase the severity of the consequences if the leader is found to have not properly recused themself should a situation where the CoI they've hidden becomes relevant.
+
+Sharing a CoI where one claims to be a victim of an action that's a violation of server rules or safety should not be considered a green light to start a formal investigation process. Mediators may offer to do so - but the action of declaring a CoI and the action of requesting a formal mediation process are wholly distinct actions. Starting such an investigation without consent, formally or informally, will be considered the same type of violation as an information leak, with the same consequences.

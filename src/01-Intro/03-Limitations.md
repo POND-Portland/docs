@@ -1,0 +1,7 @@
+# Limitations of these Documents
+
+This is not a constitution, we are not a government entity, this does not represent a legal contract between leaders and/or users. While the server users and leadership are making a commitment to abide by these principles and rules, it is ultimately something only enforceable by collective agreement, goodwill, and social forces. No legal action can be taken to enforce this text (although legal action may of course be pursued if leaders violate any real laws). If the leadership becomes sufficiently hostile or ambivalent towards the principles behind these documents, sadly nothing can be done aside from moving on from the community.
+
+In addition, in areas in which these documents are vague or incomplete, decisions will be made based on vibe. Leaders should use their heads to decide the appropriate actions to take, as actual harm done in the course of incorrectly gauging vibe is still subject to accountability processes. These documents cannot and should not cover every possible contingency, as running a community and dealing with people is inherently complex and nuanced. In some cases, updating policies and guidelines to accommodate the situation should be done if it's likely to recur in the future, or if inconsistent decision-making is causing problems or confusion, but not every one-off decision needs to become a formal practice.
+
+Prefer the general to the specific, and respect each others' judgement. When in doubt: check in with other leaders before taking action.

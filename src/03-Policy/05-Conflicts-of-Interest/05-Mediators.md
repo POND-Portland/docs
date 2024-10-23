@@ -1,0 +1,3 @@
+# Special Considerations for Mediation
+
+Mediators are expected to be much more diligent about CoIs than others. As mentioned above, they should generally recuse themselves if they have even a __Medium__ CoI with a major party involved in anything more than the lowest-stakes mediation process. In some cases, where too many Mediators are unavailable or stretched very thin, a Mediator with a *single* __Medium__ CoI with a party may be involved, provided the mutual agreement of all participants, but this should be done very rarely, and never in cases that are very severe (such as sexual assault allegations). See the policies for [Assignment of Mediators](#assignment-of-mediators) for more info.

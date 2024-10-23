@@ -1,0 +1,5 @@
+# Mandatory Review Periods
+
+Whenever a rule for changing a Document or otherwise collecting feedback specifies an "x-day review period", this means that, prior to the ratification vote, the changes must be offered to the specified bodies for the full duration to collect feedback (so 2-days is exactly 48-hours). The reviewing members don't vote on the resolution, but their objections should be discussed (even if ultimately discarded), and minor typos etc. fixed, before the vote commences. A formal vote must commence ASAP after the 48-hours, and objections voiced after that window will be discarded, to prevent eternal bike-shedding and fruitless attempts to make everyone happy.
+
+In the cases where objections feel substantial, the owner of the proposal may elect to instead submit a vote to have time to revise the proposal, but the vote may not be cancelled entirely.

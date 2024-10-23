@@ -1,0 +1,3 @@
+# Secret Votes
+
+In the case of sensitive disciplinary measures, Mediators may occasionally need to vote on topics where they may feel uncomfortable about their decision being public. They may use any tool they choose to conduct the vote in private, and the only documentation required is whether the vote passed or failed - without specifying the pass/fail margin or choices of individual members. This privilege should be used sparingly.

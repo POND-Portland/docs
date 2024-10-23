@@ -1,0 +1,9 @@
+# Community Leader vs Community Organizer
+
+A good question is why we split COs and CRs, when they could be combined into the same role. Particularly when the distinction between the kinds of things CRs and COs are meant to help "execute" isn't always going to be clear.
+
+This was initially considered, but 2-3 members of the leadership team, as well as 1-2 regular users in DMs, expressed that they have high bandwidth for executing on concrete tasks, but low bandwidth for things like debate, discussion, planning, and giving feedback on proposals. As such, the CO and Dev roles were created to separate the execution and approval/proposal/planning process. Rather than make one role with a bunch of fuzzy optional duties, it makes more sense to just make two roles with clearer duties, even if there's some redundancy. There will likely be quite a large overlap between the COs, CRs, Developers and Planners, and that's okay.
+
+Remember that any leader can opt in or out of any Tier 1 role at any time, so the fact that these are not perfectly clearly defined is not a major issue. These Tier 1 roles are a declaration of how you want to contribute, not a set of assigned duties.
+
+That said, a good rule of thumb for whether it's a CO or CR job is whether it's working on something abstract like a formal proposal for Planners to vote on (CRs), or something concrete, in particular the concrete implementation of a proposal that was already passed by the Planners or coordination of in-person events (COs). The precise nature of what kinds of tasks these roles handle will probably differentiate naturally over time.

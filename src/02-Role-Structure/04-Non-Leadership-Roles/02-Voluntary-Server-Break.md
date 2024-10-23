@@ -1,0 +1,3 @@
+# Voluntary Server Restriction
+
+Users may at any time open a ticket to request to be Ticket Muted if they need a break from the server for any reason, and may end their break at any time. This prevents reading the server entirely, so it can be useful for a complete detox. That said, this should be used sparingly just because it has to be done manually and results in an executive burden on the team, so this isn't an option to replace willpower if you want us to force you to go to bed or study every night etc.
