@@ -4,7 +4,7 @@ The files here are taken as the governing documents ("the Documents") of POND. T
 
 The Documents are as follows:
 - [Role Structure](../02-Role-Structure/01-Role-Structure.md) - Defines the organizational structure of POND, particularly the leadership, and contains details pertaining to the criteria, selection process for, and duties of said roles.
-- [Policy](../Policy.md) - Defines organizational policies and procedures. Not every informal procedure or policy will be documented, but the most important ones will, and are considered authoritative except where otherwise specified (i.e. leadership not abiding by them - intentionally or accidentally - should be held accountable).
+- [Policy](../03-Policy/01-Policy.md) - Defines organizational policies and procedures. Not every informal procedure or policy will be documented, but the most important ones will, and are considered authoritative except where otherwise specified (i.e. leadership not abiding by them - intentionally or accidentally - should be held accountable).
 - The Code of Conduct - (Under Construction, to be added here within two weeks of adoption of these Documents)
 
 ## Official Documents Not Included Here

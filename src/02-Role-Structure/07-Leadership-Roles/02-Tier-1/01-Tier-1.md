@@ -1,6 +1,6 @@
 # Tier 1 Roles
 
-These roles are "Tier 1" roles - which have less responsibility and are less "intense" positions. When someone [applies](#application), they apply to the [Community Leader](#community-leader) (CL) position, which is an "umbrella role". As such the terms "Tier 1" and "Community Leader" are roughly interchangeable. CLs may opt-in or opt-out of the three sub-roles ([Community Organizer](#community-organizer) (COs), [Community Representative](#community-representative) (CRs), or [Moderator](#moderator) (Mods)) at will - though excessive switching is discouraged. 
+These roles are "Tier 1" roles - which have less responsibility and are less "intense" positions. When someone [applies](../../05-Leadership-Requirements/03-Applications/01-Application.md), they apply to the [Community Leader](./03-CL.md) (CL) position, which is an "umbrella role". As such the terms "Tier 1" and "Community Leader" are roughly interchangeable. CLs may opt-in or opt-out of the three sub-roles ([Community Organizer](./05-CO.md) (COs), [Community Representative](./06-CR.md) (CRs), or [Moderator](./04-Mod.md) (Mods)) at will - though excessive switching is discouraged. 
 
 All Tier 1s may see *all* currently active leadership channels, regardless of roles - this allows them to give input on some isolated proposal they really care about without having to temporarily declare themselves a CR, for instance.
 

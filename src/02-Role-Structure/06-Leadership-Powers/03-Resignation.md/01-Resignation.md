@@ -8,7 +8,7 @@ It is TODO and will be fleshed out after the more urgent items.
 
 Leaders may resign at any time, for any reason. To resign they should open a ticket and formally submit a statement of resignation with as much or as little detail as necessary. 
 
-NOTE: Resignation is different from going [On Break](#on-break)
+NOTE: Resignation is different from going [On Break](../05-On-Break.md)
 
 NOTE: Due to stupid technical details with our ticket system, former leaders have to *manually* leave Every. Single. Ticket. they were in. Leaders who resign from the leadership team in its entirety *are* required to do so, and will be manually removed in short order they don't. If the leader was in a particularly large number of tickets (very likely if they've been a leader for a long time), leaving and rejoining the server might be the most expedient. We hopefully will adopt a new ticket system without this problem relatively soon, but it's lower priority than many other tasks.
 

@@ -1,6 +1,6 @@
 # Discord Powers
 
-All leaders at minimum have access to the following: pins, timeouts, role management (only used for Ticket Mute unless Tier 2), message deletion, and bans. Minor/specific permissions may change as defined in the [Role Alteration guidelines](#rules-for-changing-the-role-structure). However, unless one is a [Moderator](#moderator) one should not use moderation powers (barring a *very* good reason, such as timing out a user late at night when no mods are online).
+All leaders at minimum have access to the following: pins, timeouts, role management (only used for Ticket Mute unless Tier 2), message deletion, and bans. Minor/specific permissions may change as defined in the [Role Alteration guidelines](../02-Changing.md). However, unless one is a [Moderator](../07-Leadership-Roles/02-Tier-1/04-Mod.md) one should not use moderation powers (barring a *very* good reason, such as timing out a user late at night when no mods are online).
 
 As all Tier 1 positions are opt-in by a simple at-will reaction role change, it doesn't make sense to limit these permissions to the sub-roles (it will make the roles tab messy and channel specific permissions too hard to manage - and a hypothetical CL working in bad faith could get the powers with a simple reaction anyway). That said, a leader abusing roles such as improperly using mod features, will force at least a temporary leadership role removal, and a requirement to go through a formal accountability process.
 

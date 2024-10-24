@@ -16,4 +16,4 @@ For any votes, the On-Break member will be considered as abstaining.
 
 NOTE: Due to stupid technical details with our ticket system, leaders have to *manually* leave Every. Single. Ticket. to lose access. On Break leaders are not expected to do this (but obviously cannot participate in them). We hopefully will adopt a new ticket system without this problem relatively soon, but it's lower priority than many other tasks. That said if On-Break leaders *want* to leave tickets for a more relaxing vacation, they are heavily encouraged to do so.
 
-NOTE: Due to Discord limitations, the [Server Owner](#server-owner) has a few caveats when going On-Break, explained in their role section.
+NOTE: Due to Discord limitations, the [Server Owner](../07-Leadership-Roles/04-Miscellaneous/02-Owner.md) has a few caveats when going On-Break, explained in their role section.

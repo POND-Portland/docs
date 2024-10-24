@@ -8,4 +8,4 @@ Every 3 months, all Tier 2 leaders will have a joint meeting to sync up and make
 
 Leaders may, of course, elect to have extra meetings or working sessions as they see fit.
 
-[Secretaries](#secretary) are also required to attend the meetings for the bodies they're assigned to, see the role description for more details.
+[Secretaries](../07-Leadership-Roles/04-Miscellaneous/03-Secretary.md) are also required to attend the meetings for the bodies they're assigned to, see the role description for more details.

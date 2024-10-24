@@ -10,6 +10,6 @@ Leaders must be users with the Support Area Access role (or equivalent). In addi
 
 In addition, any prospective leader must have attended at least 5 in-person events, and met several members of the team(s) they're applying to.
 
-If any of these requirements are not met, their application will be voided (this is distinct from rejection - it does not incur the [6-month restriction on resubmitting applications](#reapplicaton-timelines), they may reapply as soon as they meet the minimum requirements).
+If any of these requirements are not met, their application will be voided (this is distinct from rejection - it does not incur the [6-month restriction on resubmitting applications](./03-Applications/02-Reapplications.md), they may reapply as soon as they meet the minimum requirements).
 
 Finally, the ability to inhabit a leadership position may be suspended or revoked at the discretion of the Mediators during or as the result of a formal accountability process.
