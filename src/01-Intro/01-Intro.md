@@ -18,3 +18,8 @@ The following documents are considered to be official and binding (except where 
 - Other Documents included alongside this Document may define their own exceptions or accessory documents hosted elsewhere.
 
 All Documents must either be a post on the Discord server itself, or easily available from a publicly accessible link on the server, available to all users - there is no penalty for accidentally keeping a Document internal or forgetting to link it, but the link must be posted when the error is pointed out.
+
+
+## Special Thanks
+
+I'd like to thank everyone body who contributed to the original bylaws, while most of the text hasn't survived, I referenced it heavily in making this expanded and easier to navigate version.
