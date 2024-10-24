@@ -1,6 +1,6 @@
 # Reapplication Timelines
 
-Applications to the same role can only be made by a user once every six months. This means that if you apply to CL and are rejected, you must wait 6 months for CL. This does not apply for different roles - for example, if you are rejected for Mediator, you may still apply to POND Developer/Planner. Please see [Tier 2 Roles](#tier-2-roles) for more information about the differences in their application requirements.
+Applications to the same role can only be made by a user once every six months. This means that if you apply to CL and are rejected, you must wait 6 months for CL. This does not apply for different roles - for example, if you are rejected for Mediator, you may still apply to POND Developer/Planner. Please see [Tier 2 Roles](../../07-Leadership-Roles/03-Tier-2/01-Tier-2.md) for more information about the differences in their application requirements.
  
 A user must hold a Tier 1 role for three months before applying to Tier 2 (leadership tenure pre-restructure is included in this timeframe). This requirement is suspended for Tier 2 bodies that are below their minimum threshold of members. Leaders who have had their roles forcibly revoked and eventually rejoin the leadership team will have their time as a leader reset for the purposes of this rule, and will be ineligible to directly apply to a Tier 2 position before the 3 month tenure requirement regardless of the number of filled seats.
 

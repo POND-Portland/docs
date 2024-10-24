@@ -10,7 +10,7 @@ Resignations of Protest are defined as resignations due to large disagreements w
 
 When resigning this way, no expectation to transfer knowledge or be available to help new leadership will be solicited, of course, but there is also no grace period to change your mind due to the emotional intensity of the situation. A leader who resigned in protest may reapply as normal after the 3 month waiting period. However, if a leader resigns in protest twice, they may not rejoin the team, as they clearly have irreconcilable disagreements with it.
 
-Leaders who resign in protest are not restricted from expressing their concerns to the server (provided it's restricted to the appropriate area - #server-talk), and are encouraged to open a formal mediation process if they still have faith in that part of the leadership system. They are also permitted to use any of the regular [User Checks Against Leaders](#user-checks-against-leaders) without restriction.
+Leaders who resign in protest are not restricted from expressing their concerns to the server (provided it's restricted to the appropriate area - #server-talk), and are encouraged to open a formal mediation process if they still have faith in that part of the leadership system. They are also permitted to use any of the regular [User Checks Against Leaders](../../../03-Policy/15-External-Checks.md) without restriction.
 
 Leadership departures of this nature may or may not get an announcement depending on the wishes of the resigning leader, but in the case they wish to pursue the situation in #server-talk, an announcement acknowledging that a leader resigned in protest and a pointer to the resulting thread is required at minimum.
 

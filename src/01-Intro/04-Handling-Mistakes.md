@@ -10,4 +10,4 @@ As an example: if a bot is used to collect feedback via a form, and the form tex
 
 If found, significantly better technical solutions may be adopted to replace the outlined solution by a simple majority of the Tier 2 body responsible for managing the policy (typically the POND Planners or Developers). 
 
-All such changes may be done without requiring an approved update to the Documents, but they should eventually be updated under the [Refactoring](./02-Changing.md#refactoring) rules for simple documentation purposes. The one exception is if the new tool falls under the [User Bot Policy](../Policy.md#user-created-bots), in which case stricter review standards apply.
+All such changes may be done without requiring an approved update to the Documents, but they should eventually be updated under the [Refactoring](./02-Changing.md#refactoring) rules for simple documentation purposes. The one exception is if the new tool falls under the [User Bot Policy](../03-Policy/13-Infosec/07-Bots/02-User-Bots.md), in which case stricter review standards apply.

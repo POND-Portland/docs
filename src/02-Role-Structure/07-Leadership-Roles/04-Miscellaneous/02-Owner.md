@@ -4,4 +4,4 @@ Due to how Discord works, we must have a server owner. It's against the Discord 
 
 Due to the nature of Server Ownership, the owner must be a Tier 2 leader, in the event the owner leaves all Tier 2 roles for any reason, they will have to transfer ownership. Server Owners may still go "On Break", but because of the features of ownership, they will not lose access to leadership areas - but are nonetheless expected to not participate until their break is over.
 
-In the event the Server Owner is the subject in an accountability or mediation process, they must immediately transfer ownership (except when the entire leadership team is indicted at once as per the [User Petitions](#user-checks-against-leaders)).
+In the event the Server Owner is the subject in an accountability or mediation process, they must immediately transfer ownership (except when the entire leadership team is indicted at once as per the [User Petitions](../../../03-Policy/15-External-Checks.md)).
